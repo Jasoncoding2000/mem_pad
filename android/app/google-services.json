@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "252295190002",
+    "firebase_url": "https://fir-flutter-codelab-8aecb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-flutter-codelab-8aecb",
+    "storage_bucket": "fir-flutter-codelab-8aecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252295190002:android:0a265d69e26ff5167b876b",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252295190002-jqt55fk0sjdpnmgsfle340teq1ibv0m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkr8uphuIKAOW9VBcHzWGbeCWgVn8550I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252295190002-jqt55fk0sjdpnmgsfle340teq1ibv0m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252295190002:android:9c812aa86a0eefba7b876b",
+        "android_client_info": {
+          "package_name": "com.example.mem_pad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252295190002-jqt55fk0sjdpnmgsfle340teq1ibv0m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkr8uphuIKAOW9VBcHzWGbeCWgVn8550I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252295190002-jqt55fk0sjdpnmgsfle340teq1ibv0m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252295190002:android:011b2dbc0941bbc57b876b",
+        "android_client_info": {
+          "package_name": "com.example.realtime_j"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252295190002-jqt55fk0sjdpnmgsfle340teq1ibv0m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkr8uphuIKAOW9VBcHzWGbeCWgVn8550I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252295190002-jqt55fk0sjdpnmgsfle340teq1ibv0m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
